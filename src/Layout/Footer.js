@@ -70,7 +70,7 @@ const LinkIcon = styled(Box)`
     margin: 0px 15px;
   }
   @media (max-width: 350px) {
-    margin: 0px 10px;
+    margin: 0px 15px;
   }
 `;
 
